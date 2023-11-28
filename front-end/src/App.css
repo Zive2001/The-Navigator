@@ -1,0 +1,320 @@
+.navigator {
+  background-color: #f3f3f3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.navigator .div {
+  background-color: #f3f3f3;
+  height: 2412px;
+  position: relative;
+  width: 1920px;
+}
+
+.navigator .overlap {
+  background-image: url("../src/assets/OCTIS.svg");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 553px;
+  left: 1008px;
+  position: absolute;
+  top: 1086px;
+  width: 741px;
+}
+
+.navigator .text-wrapper {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 60px;
+  letter-spacing: 0.24px;
+  line-height: 64px;
+  position: absolute;
+  top: 380px;
+  white-space: nowrap;
+  width: 336px;
+}
+
+.navigator .p {
+  color: #d2d2d2;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0.72px;
+  line-height: 36.1px;
+  position: absolute;
+  top: 443px;
+  white-space: nowrap;
+  width: 658px;
+}
+
+.navigator .overlap-group {
+  background-image: url("../src/assets/VR.svg");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 553px;
+  left: 148px;
+  position: absolute;
+  top: 1086px;
+  width: 741px;
+}
+
+.navigator .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 38px;
+  letter-spacing: 0.24px;
+  line-height: 64px;
+  position: absolute;
+  top: 380px;
+  white-space: nowrap;
+  width: 187px;
+  
+}
+
+.navigator .text-wrapper-3 {
+  color: #d2d2d2;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0.72px;
+  line-height: 36.1px;
+  position: absolute;
+  top: 431px;
+  white-space: nowrap;
+  width: 637px;
+}
+
+.navigator .overlap-2 {
+  background-image: url("../src/assets/WorldMap\ 1.svg");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 502px;
+  left: 0;
+  position: absolute;
+  top: 253px;
+  width: 1920px;
+}
+
+.navigator .text-wrapper-4 {
+  color: #eeeeee;
+  font-family: "Marcellus SC-Regular", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  height: 137px;
+  left: 191px;
+  letter-spacing: 0;
+  line-height: 136.2px;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  white-space: nowrap;
+  width: 655px;
+}
+
+.navigator .text-wrapper-5 {
+  color: #d2d2d2;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 249px;
+  letter-spacing: 0.72px;
+  line-height: 36.1px;
+  position: absolute;
+  text-align: center;
+  top: 250px;
+  width: 669px;
+}
+
+.navigator .div-wrapper {
+  background-color: #f8f8f8;
+  border-radius: 15px;
+  box-shadow: 10px 10px 20px #00000017, -10px -10px 20px #ffffff;
+  height: 85px;
+  left: 1236px;
+  position: absolute;
+  top: 120px;
+  width: 192px;
+}
+
+.navigator .text-wrapper-6 {
+  color: #f0402a;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 52px;
+  letter-spacing: 0.11px;
+  line-height: 29.3px;
+  opacity: 0.9;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.navigator .overlap-3 {
+  background-color: #f8f8f8;
+  border-radius: 15px;
+  box-shadow: 10px 10px 20px #00000017, -10px -10px 20px #ffffff;
+  height: 85px;
+  left: 994px;
+  position: absolute;
+  top: 120px;
+  width: 192px;
+}
+
+.navigator .text-wrapper-7 {
+  color: #f0402a;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 79px;
+  letter-spacing: 0.11px;
+  line-height: 29.3px;
+  opacity: 0.9;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.navigator .overlap-group-2 {
+  background-color: #f8f8f8;
+  border-radius: 15px;
+  box-shadow: 10px 10px 20px #00000017, -10px -10px 20px #ffffff;
+  height: 85px;
+  left: 750px;
+  position: absolute;
+  top: 120px;
+  width: 192px;
+}
+
+.navigator .text-wrapper-8 {
+  color: #000000;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 61px;
+  letter-spacing: 0.11px;
+  line-height: 29.3px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.navigator .overlap-4 {
+  background-color: #f8f8f8;
+  border-radius: 15px;
+  box-shadow: 10px 10px 20px #00000017, -10px -10px 20px #ffffff;
+  height: 85px;
+  left: 1475px;
+  position: absolute;
+  top: 120px;
+  width: 192px;
+}
+
+.navigator .text-wrapper-9 {
+  color: #f0402a;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 39px;
+  letter-spacing: 0.11px;
+  line-height: 29.3px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.navigator .the-navigator-logo {
+  height: 208px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 302px;
+  
+}
+
+.navigator .overlap-5 {
+  background-image: url("../src/assets/insight\ Portal.svg");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 553px;
+  left: 148px;
+  position: absolute;
+  top: 1767px;
+  width: 741px;
+}
+
+.navigator .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 38px;
+  letter-spacing: 0.24px;
+  line-height: 64px;
+  position: absolute;
+  top: 347px;
+  white-space: nowrap;
+  width: 513px;
+}
+
+.navigator .text-wrapper-11 {
+  color: #d2d2d2;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0.72px;
+  line-height: 36.1px;
+  position: absolute;
+  top: 415px;
+  white-space: nowrap;
+  width: 622px;
+}
+
+.navigator .overlap-6 {
+  background-image: url("../src/assets/Summary.svg");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 553px;
+  left: 1021px;
+  position: absolute;
+  top: 1767px;
+  width: 741px;
+}
+
+.navigator .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 47px;
+  letter-spacing: 0.24px;
+  line-height: 64px;
+  position: absolute;
+  top: 347px;
+  white-space: nowrap;
+  width: 353px;
+}
+
+.navigator .text-wrapper-13 {
+  color: #d2d2d2;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 47px;
+  letter-spacing: 0.72px;
+  line-height: 36.1px;
+  position: absolute;
+  top: 410px;
+  white-space: nowrap;
+  width: 622px;
+}
